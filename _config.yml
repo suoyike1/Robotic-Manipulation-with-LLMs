@@ -16,7 +16,8 @@
 
 # Build settings
 markdown: kramdown
-
+remote_theme: 
+theme: jekyll-theme-minimal
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
